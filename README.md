@@ -1,43 +1,32 @@
-![Uploading screencapture-fabulous-marshmallow-15ceb6-netlify-app-2023-10-14-11_02_01.png…]()
+# Pavo Landing Page
 
-
-### Landwind
-
-This is a mini project to train with these Features.
-Responsive
-minimal UI
+Responsive landing page built with **Next.js**, **Tailwind CSS**, and **Vercel v0**. 
 
 ---
-### Deploy Project
 
-- [view online](https://fabulous-marshmallow-15ceb6.netlify.app/)
-If you are living in Iran, please use VPN (Because of Netlify).
+## 🚀 Features
+- Hero section with clear branding
+- Features section highlighting key points
+- Details and Statistics sections for structured information
+- Testimonials section for user feedback
+- Pricing and Conclusion sections
+- Footer with contact details
 
 ---
-### Usage
-Step 1 : Install NPM
-Example:
+
+## 🛠️ Tech Stack
+- [Next.js](https://nextjs.org/) – Reactframework for production
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+- [Vercel](https://vercel.com/) – Deployment platform
 
 ---
-### Technologies
-Next.js V12
-TailwindCSS
+
+## 📦 Installation & Setup
+Clone the repository and install dependencies:
 
 ```bash
-
+git clone https://github.com/kandulaakhila/Landing-page.git
+cd Landing-page
 npm install
-
-```
-Step 2 : Run by this command
-
-```bash
-
 npm run dev
-
-```
-
-### Contact me
-
- * *[email](mailto:mrsoheibkiani@gmail.com)*
- * *[Linkedin](https://www.linkedin.com/in/soheibkiani/)*
 
