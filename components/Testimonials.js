@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-const comments = () => {
+const Testimonials = () => {
   return (
     <section className="slider-1 py-32 bg-gray">
       <div className="container px-4 sm:px-8">
@@ -124,4 +124,4 @@ const comments = () => {
   );
 };
 
-export default comments;
+export default Testimonials;

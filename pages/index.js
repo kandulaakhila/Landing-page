@@ -1,9 +1,9 @@
 import Header from '../components/header';
-import Main from '../components/main';
+import Hero from '../components/Hero';
 import Features from '../components/features';
 import Details from '../components/details';
 import Statistics from '../components/statistics';
-import Comments from '../components/comments';
+import Testimonials from '../components/Testimonials';
 import Price from '../components/price';
 import Conclusion from '../components/conclusion';
 import Footer from '../components/footer';
@@ -11,11 +11,11 @@ export default function Home() {
   return (
     <>
       <Header />
-      <Main />
+      <Hero />
       <Features />
       <Details />
       <Statistics />
-      <Comments />
+      <Testimonials />
       <Price />
       <Conclusion />
       <Footer />

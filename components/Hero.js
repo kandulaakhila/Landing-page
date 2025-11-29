@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 /* eslint-disable @next/next/no-img-element */
-const main = () => {
+const Hero = () => {
   return (
     <>
       <section
@@ -49,4 +49,4 @@ const main = () => {
   );
 };
 
-export default main;
+export default Hero;
